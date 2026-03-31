@@ -9,7 +9,7 @@ _O que foi usado_
 
 _Como ver o site_
 
-O projeto está disponível online pelo link abaixo: https://ytkvghabys.github.io/Dia-do-Jovem/
+O projeto está disponível online pelo link: https://ytkvghabys.github.io/Dia-do-Jovem/
 
 _Sobre o desenvolvimento_
 
